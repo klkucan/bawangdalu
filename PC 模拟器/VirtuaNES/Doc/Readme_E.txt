@@ -1,5 +1,5 @@
 
-VirtuaNES version 0.92 (C)2001-2004 Norix
+VirtuaNES version 0.97 (C)2001-2007 Norix
 
 ///////////////////////////////////////////////////////
 /// The sentence was got with translation software. ///

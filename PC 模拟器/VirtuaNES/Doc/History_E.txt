@@ -4,6 +4,101 @@ History
 /// The sentence was got with translation software. ///
 ///////////////////////////////////////////////////////
 
+10/14/2007      v0.97
+
+Addition:
+---------
+
+Change:
+-------
+
+Revision:
+---------
+
+-Correct a AVI output.
+
+================================================================================
+
+9/17/2007      v0.96
+
+Addition:
+---------
+
+Change:
+-------
+
+Revision:
+---------
+
+-Correct a FDS.
+
+-Correct a menu of Disksystem.
+
+================================================================================
+
+08/12/2007      v0.95
+
+A language plugin is changed. Please pay attention.
+
+Addition:
+---------
+
+-There was ON/OFF by indication of time in movie playback.
+
+-Were usable to four pieces of disks (8 sides) by a disk system.
+
+
+Change:
+-------
+
+Revision:
+---------
+
+-A bank loaded in a state road in MMC5 corrects a problem to change.
+
+-Correct a FDS.
+
+================================================================================
+
+06/01/2006      v0.93
+
+Addition:
+---------
+
+-Several automatic correspondence or addition of a family BASIC keyboard.
+
+-Add a Mapper164/165/167.(Thanks TPU)
+
+-It supports Supor Keyborad.(Thanks TPU)
+
+-Coped with a voice synthesis of Moero!! Pro-Tennis.
+
+Change:
+-------
+
+Revision:
+--------
+
+-Support a logical change application of a Caps key and a Ctrl key.
+
+-Correct movement of a frame counter.
+
+-A remainder of DMA_cycles corrects a few problems than request_cycle.
+
+-Cope in Mapper2 in Shanghai (PRG CRC:b20c1030).
+
+-Support a version other than DBZ2.
+
+-Correct the number of clock of NES for PAL.
+
+-A family BASIC keyboard connection 2P side controller corrects the problem that does not work.
+
+-Be revisions scantily.
+
+================================================================================
+
+
+
 04/09/2004      v0.92
 
 Addition:
@@ -24,7 +119,6 @@ Revision:
  (Wagan Land 2)
 
 ================================================================================
-
 
 03/25/2004      v0.91c
 
